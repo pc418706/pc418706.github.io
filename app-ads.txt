@@ -212,6 +212,8 @@ e-planning.net, 6dd3463134c6ef9b, DIRECT, c1ba615865ed87b2
 themediagrid.com, VIY354, DIRECT, 35d5010d7789b49d
 improvedigital.com, 2048, RESELLER
 
+google.com, pub-5882656183054581, DIRECT, f08c47fec0942fa0
+
 google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
 
 geniee.co.jp,22830444109, DIRECT
