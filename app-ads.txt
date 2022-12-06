@@ -216,6 +216,8 @@ google.com, pub-5882656183054581, DIRECT, f08c47fec0942fa0
 
 google.com, pub-5413329544040947, RESELLER, f08c47fec0942fa0
 
+google.com, pub-9945814470064914, DIRECT, f08c47fec0942fa0
+
 geniee.co.jp,22830444109, DIRECT
 google.com, pub-7945044863874787, RESELLER, f08c47fec0942fa0
 #Mf
