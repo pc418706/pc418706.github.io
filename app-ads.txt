@@ -78,6 +78,8 @@ pubmatic.com, 160006, RESELLER, 5d62403b186f2ace
 openx.com, 541177349, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 19724, RESELLER, 0bfd66d529a55807
+gameadzone.com, 982, DIRECT
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
 sovrn.com, 273644, RESELLER, fafdf38b16bf6b2b
 lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
 ssp.decenterads.com, 368, DIRECT
