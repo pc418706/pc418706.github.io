@@ -977,6 +977,12 @@ xad.com,589,RESELLER,81cbf0a75a5e0e9a
 inmobi.com,a5e661acdc384e91a79a58eb3418e99f,RESELLER,83e75a7ae333ca9d
 facebook.com, 1149223445501693, DIRECT, c3e20eee3f780d68
 
+vdo.ai, 3669, DIRECT
+atlas5.co, 3669, DIRECT
+walletcircle.co, 3669, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
+google.com, pub-2403018226404213, RESELLER, f08c47fec0942fa0
+
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 ad.plus, 352349, DIRECT #Video #Display
 google.com, pub-2610964203515025, DIRECT, f08c47fec0942fa0
